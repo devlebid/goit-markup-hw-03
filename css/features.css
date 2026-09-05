@@ -1,11 +1,12 @@
 .features {
     padding: 120px 0;
+    background-color: #fff;
 }
-.sr-only{
-    display: none;
-}
+
 .features-list {
     display: flex;
+    align-items: flex-start;
+    justify-content: center;
     gap: 24px;
 
 }
